@@ -1,10 +1,5 @@
 {
     "home":"Главная",
     "about":"о Себе",
-    "aboutInfo":"Черные х,и",
-    "images":["https://sergioignatev.github.io/for-efrem/static/media/stock1.c7ebf919247e8555bb99.jpg",
-    "https://sergioignatev.github.io/for-efrem/static/media/stock2.4f4647e16939addaf812.jpg",
-    "https://sergioignatev.github.io/for-efrem/static/media/stock3.3277091dabe57aa1ccf6.jpg",
-    "https://sergioignatev.github.io/for-efrem/static/media/stock4.38480922fbd35fd263ef.jpg"
-    ]
+    "aboutInfo":"Черные х,и"
 }
