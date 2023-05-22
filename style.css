@@ -1,0 +1,23 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.both {
+  display: flex;
+}
+
+.main {
+  width: 300px;
+  min-height: 100vh;
+  background: rgb(54, 85, 104);
+}
+
+.location {
+  padding: 70px;
+  background: red;
+  writing-mode: vertical-rl;
+  z-index: 1111;
+  transform: rotateZ(180deg);
+}/*# sourceMappingURL=style.css.map */
