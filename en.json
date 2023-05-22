@@ -1,10 +1,59 @@
 {
-    "home":"Home",
-    "about":"About",
-    "aboutInfo":"Love BBC",
-    "images":["https://sergioignatev.github.io/for-efrem/static/media/stock1.c7ebf919247e8555bb99.jpg",
-    "https://sergioignatev.github.io/for-efrem/static/media/stock2.4f4647e16939addaf812.jpg",
-    "https://sergioignatev.github.io/for-efrem/static/media/stock3.3277091dabe57aa1ccf6.jpg",
-    "https://sergioignatev.github.io/for-efrem/static/media/stock4.38480922fbd35fd263ef.jpg"
-    ]
+    "color":{"colo":"red"},
+    "main":{"about":"ABOUT","skills":"Skills’n’Tools","work":"SELECTED DESIGN WORKS","contacts":"CONTACTS"},
+
+    "about":{"name":"Efrem Sevoyan","profession":"Graphic Designer",
+  
+  "description1":"Graphic designer with six years of experience. Focused on delivering high-quality designs that meet client expectations. "
+  ,
+  "description2":"Proficient in industry-standard software and techniques, continuously striving for improvement and seeking new challenges."
+,"experience":"EXPERIENCE",
+"education":"EDUCATION",
+
+
+"work":[
+  {"year":"2020 - 2023",
+  "company":"Marc & André",
+  "position":"Middle Graphic Designer",
+  "todo":"Creating marketing design for both digital and print media. Product and image photo editing. Working with franchise partners and international branch offices, localizing layouts for local and global audiences."},
+
+{"year":"2019 - 1020",
+"company":"Circus of Wonders",
+"position":"Graphic Designer",
+"todo":"Designing key visuals for new shows. Adapting layouts for various platforms and media. Creating some props and merchandise for performances. Selecting and editing photos."
+},
+{"year":"2019 - 1020",
+"company":"Circus of Wonders",
+"position":"Graphic Designer",
+"todo":"Designing key visuals for new shows. Adapting layouts for various platforms and media. Creating some props and merchandise for performances. Selecting and editing photos."
+},
+{"year":"2019 - 1020",
+"company":"Circus of Wonders",
+"position":"Graphic Designer",
+"todo":"Designing key visuals for new shows. Adapting layouts for various platforms and media. Creating some props and merchandise for performances. Selecting and editing photos."
 }
+],
+
+
+"learn":[{"year":"2019 - 2019 ",
+"company":"By Lindsay Marsh",
+"position":"Graphic Design Masterclass(Intermediate)",
+"todo":"Advanced Adobe techniques, Advanced Design theory, Design and Marketing theory, Business Communications"
+},
+{"year":" 2021 - 2022",
+"company":"By Lindsay Marsh",
+"position":"Graphic Design Masterclass(Beginner)",
+"todo":"Graphic Design theory, Adobe Creative Suite tools, Logo Design & Branding theory, Web Design & Print Design basics"},
+{
+  "year":" 2015 - now",
+"company":"Internet",
+"position":"Self-education",
+"todo":"Design theory, Design artists, Watchfulness, Mastering Adobe Creative Suite, Practice"
+}
+]
+
+
+}
+
+  }
+  
