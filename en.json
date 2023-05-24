@@ -55,6 +55,7 @@
 ,"contacts":{
 "regular":"REGULAR",
 "social":"SOCIAL",
+"available":"Available for:",
 "siteKey":"Site",
 "siteValue":"afocasso.com",
 "phoneKey":"Phone",
@@ -67,7 +68,9 @@
 {"img":"https://sergioignatev.github.io/db/images/instagram.png","address":"/afokasso"},
 {"img":"https://sergioignatev.github.io/db/images/telegram.png","address":"@afokasso"},
 {"img":"https://sergioignatev.github.io/db/images/linkedin.png","address":"/in/afokasso"}
-]
+],
+"availableText":["Relocation","Freelance","Full-time","Part-time","Remote"]
+
 }
   }
   
