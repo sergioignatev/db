@@ -60,8 +60,14 @@
 "phoneKey":"Phone",
 "phoneValue":"+7 702 191 80 97",
 "emailKey":"Email",
-"emailValue":"afokasso@outlook.com"
+"emailValue":"afokasso@outlook.com",
 
+"socialNetworks":[
+  {"img":"https://sergioignatev.github.io/db/images/Be.png","address":"/afokasso"},
+{"img":"https://sergioignatev.github.io/db/images/instagram.png","address":"/afokasso"},
+{"img":"https://sergioignatev.github.io/db/images/telegram.png","address":"@afokasso"},
+{"img":"https://sergioignatev.github.io/db/images/linkedin.png","address":"/in/afokasso"}
+]
 }
   }
   
