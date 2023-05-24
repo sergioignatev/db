@@ -4,8 +4,11 @@
   padding: 0;
 }
 
-.both {
+.contacts {
   display: flex;
+  background: rgb(153, 153, 153);
+  padding-left: 20px;
+  color: white;
 }
 
 .main {
@@ -15,9 +18,14 @@
 }
 
 .location {
-  padding: 70px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 35px;
+  margin-left: 40px;
   background: red;
   writing-mode: vertical-rl;
   z-index: 1111;
   transform: rotateZ(180deg);
+  background: rgb(78, 118, 137);
 }/*# sourceMappingURL=style.css.map */
