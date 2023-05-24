@@ -54,7 +54,13 @@
 }
 ,"contacts":{
 "regular":"REGULAR",
-"social":"SOCIAL"
+"social":"SOCIAL",
+"siteKey":"Site",
+"siteVaalue":"afocasso.com",
+"phoneKey":"phone",
+"phoneValue":"+7 702 191 80 97",
+"emailKey":"Email",
+"emailValue":"afokasso@outlook.com"
 
 }
   }
