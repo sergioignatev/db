@@ -64,10 +64,10 @@
 "emailValue":"afokasso@outlook.com",
 
 "socialNetworks":[
-  {"img":"https://sergioignatev.github.io/db/images/Be.png","address":"/afokasso"},
-{"img":"https://sergioignatev.github.io/db/images/instagram.png","address":"/afokasso"},
-{"img":"https://sergioignatev.github.io/db/images/telegram.png","address":"@afokasso"},
-{"img":"https://sergioignatev.github.io/db/images/linkedin.png","address":"/in/afokasso"}
+  {"img":"https://sergioignatev.github.io/db/images/Be.png","address":"/afokasso","link":"#"},
+{"img":"https://sergioignatev.github.io/db/images/instagram.png","address":"/afokasso","link":"#"},
+{"img":"https://sergioignatev.github.io/db/images/telegram.png","address":"@afokasso","link":"#"},
+{"img":"https://sergioignatev.github.io/db/images/linkedin.png","address":"/in/afokasso","link":"#"}
 ],
 "availableText":["Relocation","Freelance","Full-time","Part-time","Remote"]
 
