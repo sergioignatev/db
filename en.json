@@ -69,7 +69,11 @@
 {"img":"https://sergioignatev.github.io/db/images/telegram.png","address":"@afokasso","link":"#"},
 {"img":"https://sergioignatev.github.io/db/images/linkedin.png","address":"/in/afokasso","link":"#"}
 ],
-"availableText":["Relocation","Freelance","Full-time","Part-time","Remote"]
+"availableText":["Relocation","Freelance","Full-time","Part-time","Remote"],
+"location":"Location",
+"country":"Kazakhstan",
+"city":"Almaty",
+"coat":"https://sergioignatev.github.io/db/images/coat.png"
 
 }
   }
