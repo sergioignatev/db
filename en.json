@@ -75,6 +75,22 @@
 "city":"Almaty",
 "coat":"https://sergioignatev.github.io/db/images/coat.png"
 
+},
+"skills":{
+"hardSkills":"HARD SKILLS",
+"softSkills":"SOFT SKILLS",
+"tools":"TOOLS",
+"hardSkills1":["Print design ","Digital design","Color theory",
+"Composition","Design principles"],
+"softSkills1":["Adaptable and open to change","Able to accept responsibilities",
+"professional end ethical","Fluent English (B2)","Like to learn"],
+"tools1":["CoralDraw","Photoshop","Illustrator","Acrobar","Bridge"],
+
+"hardSkills2":["Branding","Typography","User experience"],
+"softSkills2":["Design Thinking","Creativity"],
+"tools2":["Figma","InDesign","Lightroom"]
+
 }
+
   }
   
