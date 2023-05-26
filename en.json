@@ -77,20 +77,42 @@
 
 },
 "skills":{
-"hardSkills":"HARD SKILLS",
+"hardSkills":"HarD SKILLS",
 "softSkills":"SOFT SKILLS",
 "tools":"TOOLS",
 "hardSkills1":["Print design ","Digital design","Color theory",
 "Composition","Design principles"],
 "softSkills1":["Adaptable and open to change","Able to accept responsibilities",
 "professional end ethical","Fluent English (B2)","Like to learn"],
-"tools1":["CoralDraw","Photoshop","Illustrator","Acrobar","Bridge"],
+"tools1":["coralDraw","Photoshop","Illustrator","Acrobar","Bridge"],
 
 "hardSkills2":["Branding","Typography","User experience"],
 "softSkills2":["Design Thinking","Creativity"],
 "tools2":["Figma","InDesign","Lightroom"]
 
+},
+
+
+"works":{
+  "all":[{"workHeader":"Marc Circus","img":[
+  "https://sergioignatev.github.io/for-efrem/static/media/poster1.b0bb73302ce8774ce73b.jpg",
+  "https://sergioignatev.github.io/for-efrem/static/media/poster3.c6c0501cfab63c35fb69.jpg",
+  "https://sergioignatev.github.io/for-efrem/static/media/poster2.9509d70e6fae7efb817b.jpg",
+  "https://sergioignatev.github.io/for-efrem/static/media/poster2.9509d70e6fae7efb817b.jpg",
+  "https://sergioignatev.github.io/for-efrem/static/media/poster2.9509d70e6fae7efb817b.jpg"
+  ]},{
+    "workHeader":"Marc Andre",
+    "img":[
+      "https://sergioignatev.github.io/for-efrem/static/media/poster1.b0bb73302ce8774ce73b.jpg",
+      "https://sergioignatev.github.io/for-efrem/static/media/poster3.c6c0501cfab63c35fb69.jpg",
+      "https://sergioignatev.github.io/for-efrem/static/media/poster2.9509d70e6fae7efb817b.jpg",
+      "https://sergioignatev.github.io/for-efrem/static/media/poster2.9509d70e6fae7efb817b.jpg",
+      "https://sergioignatev.github.io/for-efrem/static/media/poster2.9509d70e6fae7efb817b.jpg"
+      ]
+  }
+]
 }
+
 
   }
   
